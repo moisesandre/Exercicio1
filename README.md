@@ -1,5 +1,4 @@
 # Exercicio1
-trabalho pra nota
 
 Exercício 1
 #include <stdio.h>
